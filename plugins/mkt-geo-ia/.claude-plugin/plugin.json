@@ -1,0 +1,8 @@
+{
+  "name": "mkt-geo-ia",
+  "version": "1.0.0",
+  "description": "Skills de mercado de GEO (zubair-trabzada/geo-seo-claude, MIT): auditoria de visibilidade em IA, citabilidade, llms.txt, rastreadores de IA, schema e menções de marca.",
+  "author": { "name": "June (agência)", "email": "bi@agenciajune.com.br" },
+  "license": "MIT",
+  "keywords": ["geo","ai-search","chatgpt","perplexity","ai-overviews"]
+}

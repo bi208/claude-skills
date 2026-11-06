@@ -1,0 +1,8 @@
+{
+  "name": "mkt-growth-cro-crm",
+  "version": "1.0.0",
+  "description": "Skills de mercado (coreyhaines31/marketingskills, MIT): CRO, testes A/B, pop-ups, analytics, rastreio, e-mail, SMS, ads, criativos, copy, oferta, SEO, AI SEO, conteúdo, pesquisa e concorrência.",
+  "author": { "name": "June (agência)", "email": "bi@agenciajune.com.br" },
+  "license": "MIT",
+  "keywords": ["cro","crm","email","seo","ads","copywriting"]
+}

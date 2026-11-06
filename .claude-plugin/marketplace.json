@@ -1,0 +1,43 @@
+{
+  "name": "june-skills",
+  "owner": {
+    "name": "June (agência)",
+    "email": "bi@agenciajune.com.br"
+  },
+  "metadata": {
+    "description": "Maestro de growth e performance da June para negócio local e ecommerce, com as melhores skills de mercado curadas.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "june-agencia",
+      "source": "./plugins/june-agencia",
+      "description": "Maestro + skills June (comece por aqui).",
+      "category": "marketing"
+    },
+    {
+      "name": "mkt-growth-cro-crm",
+      "source": "./plugins/mkt-growth-cro-crm",
+      "description": "CRO, CRM, e-mail, SMS, ads, copy, SEO e conteúdo (Corey Haines, MIT).",
+      "category": "marketing"
+    },
+    {
+      "name": "mkt-local-gmn",
+      "source": "./plugins/mkt-local-gmn",
+      "description": "SEO local e Google Meu Negócio (Garrett Smith + claude-seo, MIT).",
+      "category": "marketing"
+    },
+    {
+      "name": "mkt-geo-ia",
+      "source": "./plugins/mkt-geo-ia",
+      "description": "GEO: visibilidade em ChatGPT, Gemini, Perplexity e AI Overviews (MIT).",
+      "category": "marketing"
+    },
+    {
+      "name": "mkt-midia-ecommerce",
+      "source": "./plugins/mkt-midia-ecommerce",
+      "description": "Meta, Google, TikTok, Shopify, GA4, GTM, Looker, Klaviyo (Rebecca Rae Barton, MIT).",
+      "category": "marketing"
+    }
+  ]
+}

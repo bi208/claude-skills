@@ -1,0 +1,8 @@
+{
+  "name": "mkt-local-gmn",
+  "version": "1.0.0",
+  "description": "Skills de mercado de SEO local e Google Meu Negócio (garrettjsmith/localseoskills e AgriciDaniel/claude-seo, MIT): ficha, posts, avaliações, citações, geogrid, páginas locais e multi-unidades.",
+  "author": { "name": "June (agência)", "email": "bi@agenciajune.com.br" },
+  "license": "MIT",
+  "keywords": ["local-seo","google-business-profile","gmn","maps","reviews"]
+}

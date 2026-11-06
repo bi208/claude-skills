@@ -1,0 +1,8 @@
+{
+  "name": "mkt-midia-ecommerce",
+  "version": "1.0.0",
+  "description": "Skills de mercado de mídia e ecommerce (thatrebeccarae/claude-marketing, MIT): Shopify, Google Ads, Meta Ads, TikTok Ads, GA4, GTM, Looker Studio, Klaviyo, CRO, verba desperdiçada e atribuição.",
+  "author": { "name": "June (agência)", "email": "bi@agenciajune.com.br" },
+  "license": "MIT",
+  "keywords": ["meta-ads","google-ads","shopify","ga4","gtm","klaviyo"]
+}
